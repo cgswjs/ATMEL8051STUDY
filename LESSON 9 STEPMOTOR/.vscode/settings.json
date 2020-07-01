@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "STEPMOTORCONTROL.C": "cpp",
+        "STEPMOTORCONTROL_USEINTERRUPT.C": "cpp",
+        "NORESOURCEBUZZER.C": "cpp"
+    }
+}
